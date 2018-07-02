@@ -125,45 +125,48 @@ forecast_simpleforecast_forecastday_0_date_hour = current_json['forecast']['simp
 forecast_simpleforecast_forecastday_0_date_min = current_json['forecast']['simple_forecast']['forecastday'][0]['date']['min']
 forecast_simpleforecast_forecastday_0_date_sec = current_json['forecast']['simple_forecast']['forecastday'][0]['date']['sec']
 forecast_simpleforecast_forecastday_0_date_isdist = current_json['forecast']['simple_forecast']['forecastday'][0]['date']['isdist']
-forecast_simpleforecast_forecastday_0_date_monthname = current_json['forecast']['simple_forecast']['forecastday'][0]['date']['month$
-forecast_simpleforecast_forecastday_0_date_monthname_short = current_json['forecast']['simple_forecast']['forecastday'][0]['date'][$
-forecast_simpleforecast_forecastday_0_date_weekday_short = current_json['forecast']['simple_forecast']['forecastday'][0]['date']['w$
-forecast_simpleforecast_forecastday_0_date_weekday = current_json['forecast']['simple_forecast']['forecastday'][0]['date']['weekday$
+forecast_simpleforecast_forecastday_0_date_monthname = current_json['forecast']['simple_forecast']['forecastday'][0]['date']['monthname']
+forecast_simpleforecast_forecastday_0_date_monthname_short = current_json['forecast']['simple_forecast']['forecastday'][0]['date']['monthname_short']
+forecast_simpleforecast_forecastday_0_date_weekday_short = current_json['forecast']['simple_forecast']['forecastday'][0]['date']['weekday_short']
+forecast_simpleforecast_forecastday_0_date_weekday = current_json['forecast']['simple_forecast']['forecastday'][0]['date']['weekday']
 forecast_simpleforecast_forecastday_0_date_ampm = current_json['forecast']['simple_forecast']['forecastday'][0]['date']['ampm']
-forecast_simpleforecast_forecastday_0_date_tz_short = current_json['forecast']['simple_forecast']['forecastday'][0]['date']['tz_sho$
-forecast_simpleforecast_forecastday_0_date_tz_long = current_json['forecast']['simple_forecast']['forecastday'][0]['date']['tz_long$
-forecast_simpleforecast_forecastday_0_high_fahrenheit = current_json['forecast']['simple_forecast']['forecastday'][0]['high']['fahr$
-forecast_simpleforecast_forecastday_0_high_celsius = current_json['forecast']['simple_forecast']['forecastday'][0]['high']['celsius$
-forecast_simpleforecast_forecastday_0_low_fahrenheit = current_json['forecast']['simple_forecast']['forecastday'][0]['low']['fahren$
+forecast_simpleforecast_forecastday_0_date_tz_short = current_json['forecast']['simple_forecast']['forecastday'][0]['date']['tz_short']
+forecast_simpleforecast_forecastday_0_date_tz_long = current_json['forecast']['simple_forecast']['forecastday'][0]['date']['tz_long']
+forecast_simpleforecast_forecastday_0_high_fahrenheit = current_json['forecast']['simple_forecast']['forecastday'][0]['high']['fahrenheit']
+forecast_simpleforecast_forecastday_0_high_celsius = current_json['forecast']['simple_forecast']['forecastday'][0]['high']['celsius']
+forecast_simpleforecast_forecastday_0_low_fahrenheit = current_json['forecast']['simple_forecast']['forecastday'][0]['low']['fahrenheit']
 forecast_simpleforecast_forecastday_0_low_celsius = current_json['forecast']['simple_forecast']['forecastday'][0]['low']['celsius']
 forecast_simpleforecast_forecastday_0_conditions = current_json['forecast']['simple_forecast']['forecastday'][0]['conditions']
 forecast_simpleforecast_forecastday_0_icon = current_json['forecast']['simple_forecast']['forecastday'][0]['icon']
 forecast_simpleforecast_forecastday_0_icon_url = current_json['forecast']['simple_forecast']['forecastday'][0]['icon_url']
 forecast_simpleforecast_forecastday_0_skyicon = current_json['forecast']['simple_forecast']['forecastday'][0]['skyicon']
 forecast_simpleforecast_forecastday_0_pop = current_json['forecast']['simple_forecast']['forecastday'][0]['pop']
-forecast_simpleforecast_forecastday_0_qpf_allday_in = current_json['forecast']['simple_forecast']['forecastday'][0]['qpf_allday']['$
-forecast_simpleforecast_forecastday_0_qpf_allday_mm = current_json['forecast']['simple_forecast']['forecastday'][0]['qpf_allday']['$
+forecast_simpleforecast_forecastday_0_qpf_allday_in = current_json['forecast']['simple_forecast']['forecastday'][0]['qpf_allday']['in']
+forecast_simpleforecast_forecastday_0_qpf_allday_mm = current_json['forecast']['simple_forecast']['forecastday'][0]['qpf_allday']['mm']
 forecast_simpleforecast_forecastday_0_qpf_day_in = current_json['forecast']['simple_forecast']['forecastday'][0]['qpf_day']['in']
 forecast_simpleforecast_forecastday_0_qpf_day_mm = current_json['forecast']['simple_forecast']['forecastday'][0]['qpf_day']['mm']
-forecast_simpleforecast_forecastday_0_qpf_night_in = current_json['forecast']['simple_forecast']['forecastday'][0]['qpf_night']['in$
-forecast_simpleforecast_forecastday_0_qpf_night_mm = current_json['forecast']['simple_forecast']['forecastday'][0]['qpf_night']['mm$
-forecast_simpleforecast_forecastday_0_snow_allday_in = current_json['forecast']['simple_forecast']['forecastday'][0]['snow_allday']$
-forecast_simpleforecast_forecastday_0_snow_allday_cm = current_json['forecast']['simple_forecast']['forecastday'][0]['snow_allday']$
+forecast_simpleforecast_forecastday_0_qpf_night_in = current_json['forecast']['simple_forecast']['forecastday'][0]['qpf_night']['in']
+forecast_simpleforecast_forecastday_0_qpf_night_mm = current_json['forecast']['simple_forecast']['forecastday'][0]['qpf_night']['mm']
+forecast_simpleforecast_forecastday_0_snow_allday_in = current_json['forecast']['simple_forecast']['forecastday'][0]['snow_allday']['in']
+forecast_simpleforecast_forecastday_0_snow_allday_cm = current_json['forecast']['simple_forecast']['forecastday'][0]['snow_allday']['cm']
 forecast_simpleforecast_forecastday_0_snow_day_in = current_json['forecast']['simple_forecast']['forecastday'][0]['snow_day']['in']
 forecast_simpleforecast_forecastday_0_snow_day_cm = current_json['forecast']['simple_forecast']['forecastday'][0]['snow_day']['cm']
-forecast_simpleforecast_forecastday_0_snow_night_in = current_json['forecast']['simple_forecast']['forecastday'][0]['snow_night']['$
-forecast_simpleforecast_forecastday_0_snow_night_cm = current_json['forecast']['simple_forecast']['forecastday'][0]['snow_night']['$
+forecast_simpleforecast_forecastday_0_snow_night_in = current_json['forecast']['simple_forecast']['forecastday'][0]['snow_night']['in']
+forecast_simpleforecast_forecastday_0_snow_night_cm = current_json['forecast']['simple_forecast']['forecastday'][0]['snow_night']['cm']
 forecast_simpleforecast_forecastday_0_maxwind_mph = current_json['forecast']['simple_forecast']['forecastday'][0]['maxwind']['mph']
 forecast_simpleforecast_forecastday_0_maxwind_kph = current_json['forecast']['simple_forecast']['forecastday'][0]['maxwind']['kph']
 forecast_simpleforecast_forecastday_0_maxwind_dir = current_json['forecast']['simple_forecast']['forecastday'][0]['maxwind']['dir']
-forecast_simpleforecast_forecastday_0_maxwind_degrees = current_json['forecast']['simple_forecast']['forecastday'][0]['maxwind']['d$
+forecast_simpleforecast_forecastday_0_maxwind_degrees = current_json['forecast']['simple_forecast']['forecastday'][0]['maxwind']['degrees']
 forecast_simpleforecast_forecastday_0_avewind_mph = current_json['forecast']['simple_forecast']['forecastday'][0]['avewind']['mph']
 forecast_simpleforecast_forecastday_0_avewind_kph = current_json['forecast']['simple_forecast']['forecastday'][0]['avewind']['kph']
 forecast_simpleforecast_forecastday_0_avewind_dir = current_json['forecast']['simple_forecast']['forecastday'][0]['avewind']['dir']
-forecast_simpleforecast_forecastday_0_avewind_degrees = current_json['forecast']['simple_forecast']['forecastday'][0]['avewind']['d$
+forecast_simpleforecast_forecastday_0_avewind_degrees = current_json['forecast']['simple_forecast']['forecastday'][0]['avewind']['degrees']
 forecast_simpleforecast_forecastday_0_avehumidity = current_json['forecast']['simple_forecast']['forecastday'][0]['avehumidity']
 forecast_simpleforecast_forecastday_0_maxhumidity = current_json['forecast']['simple_forecast']['forecastday'][0]['maxhumidity']
 forecast_simpleforecast_forecastday_0_minhumidity = current_json['forecast']['simple_forecast']['forecastday'][0]['minhumidity']
+#print "%s" % (airport_code)
+
+
 file = open("/var/www/html/localweather.txt","w")
 file.write("Current Conditions at %s in %s...last updated %s\n" % (station_id, location,observation_time))
 file.write("Current Weather: %s\n" % (weather))
@@ -264,8 +267,8 @@ file.write("forecast_simpleforecast_forecastday_0_date_min: %s\n" % (forecast_si
 file.write("forecast_simpleforecast_forecastday_0_date_sec: %s\n" % (forecast_simpleforecast_forecastday_0_date_sec))
 file.write("forecast_simpleforecast_forecastday_0_date_isdist: %s\n" % (forecast_simpleforecast_forecastday_0_date_isdist))
 file.write("forecast_simpleforecast_forecastday_0_date_monthname: %s\n" % (forecast_simpleforecast_forecastday_0_date_monthname))
-file.write("forecast_simpleforecast_forecastday_0_date_monthname_short: %s\n" % (forecast_simpleforecast_forecastday_0_date_monthna$
-file.write("forecast_simpleforecast_forecastday_0_date_weekday_short: %s\n" % (forecast_simpleforecast_forecastday_0_date_weekday_s$
+file.write("forecast_simpleforecast_forecastday_0_date_monthname_short: %s\n" % (forecast_simpleforecast_forecastday_0_date_monthname_short))
+file.write("forecast_simpleforecast_forecastday_0_date_weekday_short: %s\n" % (forecast_simpleforecast_forecastday_0_date_weekday_short))
 file.write("forecast_simpleforecast_forecastday_0_date_weekday: %s\n" % (forecast_simpleforecast_forecastday_0_date_weekday))
 file.write("forecast_simpleforecast_forecastday_0_date_ampm: %s\n" % (forecast_simpleforecast_forecastday_0_date_ampm))
 file.write("forecast_simpleforecast_forecastday_0_date_tz_short: %s\n" % (forecast_simpleforecast_forecastday_0_date_tz_short))
