@@ -1,0 +1,2 @@
+#every 20 mins runs the puthon script WU_Full_test.py
+*/20 * * * * python /home/pi/WU_Full.py
