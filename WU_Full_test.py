@@ -1,8 +1,9 @@
 import urllib2
 import json
-APIKEY = "61656f824e31c38b"
-STATIONID = "KMDLAURE30"
-
+APIKEY = "xxxxxxxxxxxxxxxx"
+		  
+STATIONID = "xxxxxxxxxx"
+			 
 WUAPI = urllib2.urlopen('http://api.wunderground.com/api/%s/conditions/astronomy/alerts/q/pws:%s.json' % (APIKEY, STATIONID))
 json_string = WUAPI.read()
 current_json = json.loads(json_string)
